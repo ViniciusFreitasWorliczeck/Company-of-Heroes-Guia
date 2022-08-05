@@ -1,6 +1,6 @@
-# Iniciantes de Company of Heroes
+# Iniciantes de Company of Heroes :video_game:
 
-## Comande um batalhão neste game de combate online
+## Comande um batalhão neste game de combate online :guardsman:
 Company of Heroes Online é um jogo que continua a famosa série de games sobre segunda guerra, mas com uma proposta de multiplayer online. Ele proporciona ao mesmo tempo momentos de estratégia e muita ação sem limites.
 
 O ponto forte do jogo são as possibilidades de customização. Você pode escolher soldados pelas suas características, habilidades diferenciadas e montar um batalhão único. Sempre que vencer um rounda no combate, você desbloqueia novos itens e amplia as habilidades de seus comandados, deixando o seu exército mais poderoso.
@@ -13,15 +13,15 @@ O enredo do modo campanha narra a história  da Able Company, um unidade militar
 
 O modo multiplayer sensacional completa o grande número de virtudes de Company of Heroes, fazendo deste jogo não só uma alternativa atraente para os fanáticos por games de estratégia em tempo real, e sim também para aqueles que gostam de realismo, ação empolgante, e combates com muitas explosões e destruição.
 
-## COMO JOGAR
+## COMO JOGAR :confused:
 Company of Heroes Online é gratuito e roda online. Para jogar, é preciso fazer um cadastro no site oficial da THQ. Preencha os dados corretamente e não esqueça de colocar um endereço de e-mail válido, para receber sua confirmação e sua senha.
 
 Após receber o e-mail, clique no link informado para fazer o download do aplicativo que inicia o game. Será preciso reiniciar o PC, depois disso, um novo arquivo será instalado no seu computador. Na sequência, entre no menu principal de Company of Heroes Online e espere a atualização terminar para iniciar a jogatina.
 
-## A série Company of Heroes
+## A série Company of Heroes :computer:
 foi iniciada em 2006. De lá para cá, novos títulos foram publicados todos os anos. Na sequência: Opposing Fronts (2007), Gold Edition (2008) e Tales of Valor (2009).
 
-## Guia para Iniciantes no jogo
+## Guia para Iniciantes no jogo :notebook_with_decorative_cover:
 
 Temos alguns tutorias no Youtube para te ajudar a aprender a jogar Company of Heroes
 
@@ -29,4 +29,4 @@ Temos alguns tutorias no Youtube para te ajudar a aprender a jogar Company of He
 
  https://www.youtube.com/watch?v=-Pzl0F3kGE4
 
-# e isso é tudo,boa jogatina e ate mais
+# e isso é tudo,boa jogatina e ate mais :wave:
