@@ -24,7 +24,9 @@ foi iniciada em 2006. De lá para cá, novos títulos foram publicados todos os 
 ## Guia para Iniciantes no jogo
 
 Temos alguns tutorias no Youtube para te ajudar a aprender a jogar Company of Heroes
-https://www.youtube.com/watch?v=YsclGQ8CI2E
-https://www.youtube.com/watch?v=-Pzl0F3kGE4
+
+ https://www.youtube.com/watch?v=YsclGQ8CI2E
+
+ https://www.youtube.com/watch?v=-Pzl0F3kGE4
 
 # e isso é tudo,boa jogatina e ate mais
